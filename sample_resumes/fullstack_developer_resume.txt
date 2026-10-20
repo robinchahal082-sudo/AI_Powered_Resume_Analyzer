@@ -1,0 +1,67 @@
+ROBINDEEP KAUR
+Full Stack Web Developer
+
+Email: robinchahal@example.com
+Phone: 9876501234
+LinkedIn: linkedin.com/in/robindeepkaur
+GitHub: github.com/robinchahal
+
+OBJECTIVE
+
+Motivated Full Stack Web Developer proficient in React, JavaScript, Node.js, and modern UI engineering, seeking to build responsive applications and scalable web solutions.
+
+CORE SKILLS
+
+Programming Languages: JavaScript, TypeScript, HTML, CSS, SQL
+
+Frontend: React, Redux, Bootstrap, Tailwind CSS, Next.js
+
+Backend: Node.js, Express, REST API
+
+Databases: MongoDB, MySQL
+
+Tools: Git, GitHub, Postman, Linux
+
+Soft Skills: Teamwork, Problem Solving, Communication, Time Management
+
+EDUCATION
+
+B.Tech (Hons.) Data Science
+Akal University, Talwandi Sabo, Punjab
+2023 – 2027
+CGPA: 9.03/10
+
+EXPERIENCE
+
+Full Stack Developer Trainee | WebMatrix Technologies
+August 2023 – Present
+
+- Built modern single-page applications using React.
+- Integrated frontend applications with backend REST endpoints.
+- Designed and managed database schemas using MongoDB and MySQL.
+- Developed responsive user interfaces using modern web technologies.
+
+PROJECTS
+
+1. Interactive Learning Portal
+Technologies: React, Node.js, Express, MongoDB
+
+- Developed a web-based learning portal with interactive learning features.
+- Integrated frontend components with backend services and database operations.
+
+2. Real-Time Task Tracker
+Technologies: React, Tailwind CSS, REST APIs
+
+- Built a task-tracking application for managing tasks and monitoring progress.
+- Integrated REST APIs to support application functionality.
+
+KEY STRENGTHS
+
+- Problem-solving and analytical thinking
+- Team collaboration
+- Effective communication
+- Time management
+
+CAREER INTERESTS
+
+Full Stack Development, Frontend Development, Backend Development, Web Application Engineering
